@@ -60,41 +60,41 @@ boostrap3.3.7，jquery
 
 ## 一、主页
 
-![后台效果截图，图片较大，请耐心等待](https://github.com/fry404006308/m_Orchestrate/blob/master/m_Orchestrate/otherResource/System_screenshot/index/index1.gif)
+![后台效果截图，图片较大，请耐心等待](https://github.com/fry404006308/m_Orchestrate_/blob/master/otherResource/System_screenshot/index/index1.gif)
 
-![后台效果截图，图片较大，请耐心等待](https://github.com/fry404006308/m_Orchestrate/blob/master/m_Orchestrate/otherResource/System_screenshot/index/index2.gif)
+![后台效果截图，图片较大，请耐心等待](https://github.com/fry404006308/m_Orchestrate_/blob/master/otherResource/System_screenshot/index/index2.gif)
 
 
 
 ## 二、学生端
 
-![后台效果截图，图片较大，请耐心等待](https://github.com/fry404006308/m_Orchestrate/blob/master/m_Orchestrate/otherResource/System_screenshot/student/student1.gif)
+![后台效果截图，图片较大，请耐心等待](https://github.com/fry404006308/m_Orchestrate_/blob/master/otherResource/System_screenshot/student/student1.gif)
 
-![后台效果截图，图片较大，请耐心等待](https://github.com/fry404006308/m_Orchestrate/blob/master/m_Orchestrate/otherResource/System_screenshot/student/student2.gif)
+![后台效果截图，图片较大，请耐心等待](https://github.com/fry404006308/m_Orchestrate_/blob/master/otherResource/System_screenshot/student/student2.gif)
 
-![后台效果截图，图片较大，请耐心等待](https://github.com/fry404006308/m_Orchestrate/blob/master/m_Orchestrate/otherResource/System_screenshot/student/student3.gif)
+![后台效果截图，图片较大，请耐心等待](https://github.com/fry404006308/m_Orchestrate_/blob/master/otherResource/System_screenshot/student/student3.gif)
 
-![后台效果截图，图片较大，请耐心等待](https://github.com/fry404006308/m_Orchestrate/blob/master/m_Orchestrate/otherResource/System_screenshot/student/student4.gif)
+![后台效果截图，图片较大，请耐心等待](https://github.com/fry404006308/m_Orchestrate_/blob/master/otherResource/System_screenshot/student/student4.gif)
 
-![后台效果截图，图片较大，请耐心等待](https://github.com/fry404006308/m_Orchestrate/blob/master/m_Orchestrate/otherResource/System_screenshot/student/student5.gif)
+![后台效果截图，图片较大，请耐心等待](https://github.com/fry404006308/m_Orchestrate_/blob/master/otherResource/System_screenshot/student/student5.gif)
 
-![后台效果截图，图片较大，请耐心等待](https://github.com/fry404006308/m_Orchestrate/blob/master/m_Orchestrate/otherResource/System_screenshot/student/student6.gif)
+![后台效果截图，图片较大，请耐心等待](https://github.com/fry404006308/m_Orchestrate_/blob/master/otherResource/System_screenshot/student/student6.gif)
 
-![后台效果截图，图片较大，请耐心等待](https://github.com/fry404006308/m_Orchestrate/blob/master/m_Orchestrate/otherResource/System_screenshot/student/student7.gif)
+![后台效果截图，图片较大，请耐心等待](https://github.com/fry404006308/m_Orchestrate_/blob/master/otherResource/System_screenshot/student/student7.gif)
 
 
 
 ## 三、老师端-管理员端（老师端和管理员端合并在一起，用auth权限区分）
 
-![后台效果截图，图片较大，请耐心等待](https://github.com/fry404006308/m_Orchestrate/blob/master/m_Orchestrate/otherResource/System_screenshot/teacher/teacher1.gif)
+![后台效果截图，图片较大，请耐心等待](https://github.com/fry404006308/m_Orchestrate_/blob/master/otherResource/System_screenshot/teacher/teacher1.gif)
 
-![后台效果截图，图片较大，请耐心等待](https://github.com/fry404006308/m_Orchestrate/blob/master/m_Orchestrate/otherResource/System_screenshot/teacher/teacher2.gif)
+![后台效果截图，图片较大，请耐心等待](https://github.com/fry404006308/m_Orchestrate_/blob/master/otherResource/System_screenshot/teacher/teacher2.gif)
 
-![后台效果截图，图片较大，请耐心等待](https://github.com/fry404006308/m_Orchestrate/blob/master/m_Orchestrate/otherResource/System_screenshot/teacher/teacher3.gif)
+![后台效果截图，图片较大，请耐心等待](https://github.com/fry404006308/m_Orchestrate_/blob/master/otherResource/System_screenshot/teacher/teacher3.gif)
 
-![后台效果截图，图片较大，请耐心等待](https://github.com/fry404006308/m_Orchestrate/blob/master/m_Orchestrate/otherResource/System_screenshot/teacher/teacher4.gif)
+![后台效果截图，图片较大，请耐心等待](https://github.com/fry404006308/m_Orchestrate_/blob/master/otherResource/System_screenshot/teacher/teacher4.gif)
 
-![后台效果截图，图片较大，请耐心等待](https://github.com/fry404006308/m_Orchestrate/blob/master/m_Orchestrate/otherResource/System_screenshot/teacher/teacher5.gif)
+![后台效果截图，图片较大，请耐心等待](https://github.com/fry404006308/m_Orchestrate_/blob/master/otherResource/System_screenshot/teacher/teacher5.gif)
 
 
 
